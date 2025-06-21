@@ -9,4 +9,6 @@ The implementation of Section 1.2 (Data Preparation) is provided in the scriptâ€
 The result of Section 1 (cleaned dataset) is provided in the CSV file US_1_Retail_FINAL.csv. <br>
 
 
-For Section 2 
+For Section 2 Exploratory data analysis: <br>
+The EDA analysis figures of single feature is provided in the script Single_variables.py. <br>
+The EDA analysis figures of multi features is provided in the script Multi_variables.py. <br>
