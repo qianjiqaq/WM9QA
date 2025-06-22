@@ -12,3 +12,8 @@ The result of Section 1 (cleaned dataset) is provided in the CSV file US_1_Retai
 For Section 2 Exploratory data analysis: <br>
 The EDA analysis figures of single feature is provided in the script Single_variables.py. <br>
 The EDA analysis figures of multi features is provided in the script Multi_variables.py. <br>
+
+
+For Section 3 Predictive Analytics and Demand Forecasting: <br>
+The predicition performance and ploting process of the S2S model is provided in the script S2S_prediction.py. <br>
+The predicition performance and ploting process of the DeepAR model is provided in the script DeepAR_prediction.py. <br>
